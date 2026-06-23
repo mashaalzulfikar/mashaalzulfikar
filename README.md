@@ -12,3 +12,8 @@ I am a Software Engineer passionate about building scalable, responsive web appl
 
 ---
 *Let's connect!*
+### 📈 GitHub Stats
+
+![Mashaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashaalzulfikar&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashaalzulfikar&layout=compact&theme=radical)
