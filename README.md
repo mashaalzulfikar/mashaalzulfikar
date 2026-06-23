@@ -1,19 +1,27 @@
-# Hello, I'm Mashaal Zulfikar! 👋
+<h1 align="center">Hi there, I'm Muhammad Mashaal Zulfikar Memon! 👋</h1>
 
-I am a Software Engineer passionate about building scalable, responsive web applications.
+<h3 align="center">Software Engineer | MERN Stack Developer</h3>
 
-### 🛠 Tech Stack
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ---
-*Let's connect!*
-### 📈 GitHub Stats
 
-![Mashaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashaalzulfikar&show_icons=true&theme=radical)
+<h3 align="center">📈 GitHub Stats</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashaalzulfikar&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mashaalzulfikar&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashaalzulfikar&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<h3 align="center">💻 My Projects</h3>
+<p align="center">
+  <em>Pinned projects showcase my work in industrial automation and web architecture.</em>
+</p>
