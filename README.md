@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mashaal Zulfikar! 👋</h1>
+<h1 align="center">Hi there, I'm Muhammad Mashaal Zulfikar Memon! 👋</h1>
 
 <h3 align="center">Software Engineer | MERN Stack Developer</h3>
 
@@ -17,11 +17,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mashaalzulfikar&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashaalzulfikar&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-<h3 align="center">💻 My Projects</h3>
-<p align="center">
-  <em>Pinned projects showcase my work in industrial automation and web architecture.</em>
 </p>
